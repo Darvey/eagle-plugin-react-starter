@@ -1,5 +1,5 @@
 
-## Configuration du projet
+## Project setup
 To use this starter, simply replace the "id" and "name" fields in the manifest.json file.
 > you can retrieve a new id from the manifest.json file of a project that you created directly from Eagle
 
