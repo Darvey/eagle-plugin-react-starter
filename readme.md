@@ -9,7 +9,7 @@ npm install
 ```
 
 ## Development mode
-Pour commencer à développer, utilisez la commande:
+Start the dev server with
 ```bash
 npm run dev
 ```
